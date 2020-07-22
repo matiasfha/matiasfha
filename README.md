@@ -1,3 +1,12 @@
+<img height="100" src="https://matiashernandez.dev/static/photo-dd00f50f05f7ae0f5dda61a12332356f.png" alt="Hi I'm Matias" />
+
+Hi there 👋! I am Matias, a Chilean Software Engineer. I do my work as a remote engineer for the last 8+ years now and never come back.
+
+I'm also a Father and Podcaster. I really love communications.
+
+Beside creating code and delivering solutions/products I like to teach or share what I know with the community so I became an [egghead.io instructor](http://egghead.io/instructors/matias-francisco-hernandez-arellano)
+
+I'm mostly focused on Javascript and in particular Frontend Development within the React ecosystem.
 
 ### My Content
 <div align="center">
@@ -36,3 +45,23 @@
     </tbody>
   </table>
 </div>
+
+### Tooling
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+### What else I do?
+* I do gimnastic strength training
+* Play guitar sometimes
+* Read some book
+
+
+### 💬 Where to find me:
+- <img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" alt="Matia's Twitter Profile"></a> Twitter: https://twitter.com/matiasfha
+- 📃 Website: https://matiashernandez.dev
+- 💬 Ask me anything: https://github.com/matiasfha/ama
+
+
