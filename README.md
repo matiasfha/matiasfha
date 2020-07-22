@@ -19,7 +19,7 @@ I'm mostly focused on Javascript and in particular Frontend Development within t
         <th>
           <strong><a href="https://controlremoto.buzzsprout.com">Control Remoto Podcast</a></strong>
         </th>
-      /tr>
+      </tr>
     </thead>
     <tbody>
       <tr>
