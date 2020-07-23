@@ -1,5 +1,3 @@
-<img height="100" src="https://matiashernandez.dev/static/photo-dd00f50f05f7ae0f5dda61a12332356f.png" alt="Hi I'm Matias" />
-
 Hi there 👋! I am Matias, a Chilean Software Engineer. I do my work as a remote engineer for the last 8+ years now and never come back.
 
 I'm also a Father and Podcaster. I really love communications.
@@ -10,7 +8,7 @@ I'm mostly focused on Javascript and in particular Frontend Development within t
 
 ### My Content
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0" cellspacing="0" cellpadding="0" width="100">
     <thead>
       <tr>
         <th>
@@ -26,7 +24,7 @@ I'm mostly focused on Javascript and in particular Frontend Development within t
         <td>
           <a href="http://buzzsprout.com/1081172">
             <img
-                 height="50"
+                 height="70"
               alt="Café con Tech Podcast"
               src="https://matiashernandez.dev/static/CafeConTechLogo-26c238dfc0af3dd9f57e73901fa19220.jpeg"
             />
@@ -35,7 +33,7 @@ I'm mostly focused on Javascript and in particular Frontend Development within t
         <td>
           <a href="https://controlremoto.buzzsprout.com">
             <img
-                 height="50"
+                 height="70"
               alt="Control Remoto Podcast"
               src="https://matiashernandez.dev/static/ControLRemotoLogo-4d7c162ad80ba8098be0e29c8222a21b.jpeg"
             />
