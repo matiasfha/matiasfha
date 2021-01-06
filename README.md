@@ -2,7 +2,7 @@ Hi there 👋! I am Matias, a Chilean Software Engineer. I do my work as a remot
 
 I'm also a Father and Podcaster. I really love communications.
 
-Beside creating code and delivering solutions/products I like to teach or share what I know with the community so I became an [egghead.io instructor](http://egghead.io/instructors/matias-francisco-hernandez-arellano)
+Beside creating code and delivering solutions/products I like to teach or share what I know with the community so I became an [egghead.io instructor](http://egghead.io/instructors/matias-francisco-hernandez-arellano), freecodecamp author, Auth0 Ambassador and Cloudinary Media Developer Expert.
 
 I'm mostly focused on Javascript and in particular Frontend Development within the React ecosystem.
 
