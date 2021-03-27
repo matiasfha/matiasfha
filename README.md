@@ -8,43 +8,26 @@ I'm mostly focused on Javascript and in particular Frontend Development within t
 
 <a href="https://www.buymeacoffee.com/matiasfha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-### My Content
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" width="100">
-    <thead>
-      <tr>
-        <th>
-          <strong><a href="http://buzzsprout.com/1081172">Café con Tech Podcast</a></strong>
-        </th>
-        <th>
-          <strong><a href="https://controlremoto.buzzsprout.com">Control Remoto Podcast</a></strong>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="http://buzzsprout.com/1081172">
-            <img
-                 height="70"
-              alt="Café con Tech Podcast"
-              src="https://matiashernandez.dev/static/CafeConTechLogo-26c238dfc0af3dd9f57e73901fa19220.jpeg"
-            />
-          </a>
-        </td>
-        <td>
-          <a href="https://controlremoto.buzzsprout.com">
-            <img
-                 height="70"
-              alt="Control Remoto Podcast"
-              src="https://matiashernandez.dev/static/ControLRemotoLogo-4d7c162ad80ba8098be0e29c8222a21b.jpeg"
-            />
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=matiasfha&show_icons=true)
+
+### Content
+<a href="https://www.cafecon.tech">
+<img src="https://www.cafecon.tech/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTgrMHc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0a5615851e9ccdd41cdbad084dc90ea9079e42e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld282QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpvR1JWUTZER2R5WVhacGRIbEpJZ3RqWlc1MFpYSUdPd2RVT2d0bGVIUmxiblJKSWd3Mk1EQjROakF3QmpzSFZEb01jWFZoYkdsMGVXbFZPZzlqYjJ4dmNuTndZV05sU1NJSmMxSkhRZ1k3QjFRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--18dce6f7f6b21c4b954edd26fbee6b912b5126ef/WhatsApp%20Image%202020-05-11%20at%2015.28.18.jpeg" width="100" />
+</a>
+
+<a href="https://controlremoto.io">
+<img src="https://www.buzzsprout.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEI4eWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--52e4178cd9cb89dc71436a75f9a705d1c97ffaae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld282QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpvR1JWUTZER2R5WVhacGRIbEpJZ3RqWlc1MFpYSUdPd2RVT2d0bGVIUmxiblJKSWd3Mk1EQjROakF3QmpzSFZEb01jWFZoYkdsMGVXbFZPZzlqYjJ4dmNuTndZV05sU1NJSmMxSkhRZ1k3QjFRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--18dce6f7f6b21c4b954edd26fbee6b912b5126ef/WhatsApp%20Image%202020-05-01%20at%2019.12.00.jpeg?podcast_id=1057351"
+width="100" />
+  </a>
+<a href="https://egghead.io/q/resources-by-matias-hernandez">
+<img src="http://og-image-react-egghead.now.sh/instructor/matias-hernandez?v=20201103" height="100" />
+  </a>
+  <a href="https://www.freecodecamp.org/espanol/news/author/matias-hernandez/" style="display:flex;flex-direction:row;height:100px">
+  <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/01/example.jpg" height="100" />
+  <label>FreeCodeCamp en español</label>
+  </a>
+
 
 ### Tooling
 **Languages and Tools:**  
