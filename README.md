@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Matías!</h1>
-<h3 align="center">a Chilean Software Engineer, Father, Educator, Podcaster and Writer</h3>
+<h3 align="center">I'm a 🇨🇱 Chilean Remote Software Engineer, Father, Educator, Podcaster and Writer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasfha&label=Profile%20views&color=0e75b6&style=flat" alt="matiasfha" /> </p>
 
