@@ -38,11 +38,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Habilidades Blandas Esenciales Para Un Desarrollador.](https://h.matiashernandez.dev/4-habilidades-blandas-esenciales-para-un-desarrollador)
 - [¿Por que JamStack es tan cool?](https://h.matiashernandez.dev/por-que-jamstack-es-tan-cool)
 - [¿Qué es un Closure en Javascript?](https://h.matiashernandez.dev/que-es-un-closure-en-javascript)
 - [Fijando Expectativas ¿Cómo manejar y crear buenas expectativas?](https://h.matiashernandez.dev/fijando-expectativas-como-manejar-y-crear-buenas-expectativas)
 - [¿Qué es Babel?](https://h.matiashernandez.dev/que-es-babel)
-- [¿Qué es Linting y ESLint?](https://h.matiashernandez.dev/que-es-linting-y-eslint)
 <!-- BLOG-POST-LIST:END -->
 
 ### Podcasts 
