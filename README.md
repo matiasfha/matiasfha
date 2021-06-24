@@ -15,16 +15,21 @@
 
 - 📝 I regularly write articles on [https://h.matiashernandez.dev](https://h.matiashernandez.dev)
 
+- 🎧 I have a weekly podcast show [Café con Tech](https://cafecon.tech)
+
 - 💬 Ask me about **Javascript, React, web development in general and Soft Skills** Check [my AMA](https://github.com/matiasfha/ama)
 
 - 📩 Subscribe to my newsletter (Spanish 🇨🇱🇪🇸🇦🇷🇨🇴) [MicroBytest](https://microbytes.com.matiashernandez.dev) 
 
 - 👨‍🏫 I'm an [egghead.io](https://egghead.io) instructor. [Check my lessons (🇪🇸 and 🇺🇸)](https://egghead.io/q/resources-by-matias-hernandez)
+- 👨‍🏫 I'm also an [escuelafrontend.com](https://escuelafrontend.com) instructor.
 
 - 📄 I also write for:
   -  [FreeCodeCamp en Español](http://freecodecamp.org/espanol/news/author/matias-hernandez/)
   -  [FreeCodeCamp en Ingles](http://freecodecamp.org/news/author/matias-hernandez/)
   -  [Cloudinary Media Jams](https://mediajams.dev/author/matias-hernandez)
+  -  [Draft.dev](https://draft.dev)
+  -  [Escuela Frontend](https://escuelafrontend.com(
 
 - 📫 How to reach me **https://twitter.com/matiasfha**
 
