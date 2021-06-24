@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://h.matiashernandez.dev](https://h.matiashernandez.dev)
 
-- 🎧 I have a weekly podcast show [Café con Tech](https://cafecon.tech)
+- 🎧 I have a weekly podcast show [Café con Tech](https://www.cafecon.tech)
 
 - 💬 Ask me about **Javascript, React, web development in general and Soft Skills** Check [my AMA](https://github.com/matiasfha/ama)
 
