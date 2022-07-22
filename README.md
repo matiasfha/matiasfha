@@ -11,7 +11,7 @@
 
 - 🌱 I'm always learning and currently curious about **Svelte, Clojure and Rust**
 
-- 👨‍💻 All of my projects are available at [https://matiashernandez.dev](https://matiashernandez.dev)
+- 👨‍💻 All of my projects are available at <a href="https://matiashernandez.dev" rel="me">https://matiashernandez.dev</a>
 
 - 📝 I regularly write articles on [https://h.matiashernandez.dev](https://h.matiashernandez.dev)
 
