@@ -43,11 +43,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Quick post: Modeling a video player with xstate](https://h.matiashernandez.dev/quick-post-modeling-a-video-player-with-xstate)
-- [4 Habilidades Blandas Esenciales Para Un Desarrollador.](https://h.matiashernandez.dev/4-habilidades-blandas-esenciales-para-un-desarrollador)
-- [¿Por que JamStack es tan cool?](https://h.matiashernandez.dev/por-que-jamstack-es-tan-cool)
-- [¿Qué es un Closure en Javascript?](https://h.matiashernandez.dev/que-es-un-closure-en-javascript)
-- [Fijando Expectativas ¿Cómo manejar y crear buenas expectativas?](https://h.matiashernandez.dev/fijando-expectativas-como-manejar-y-crear-buenas-expectativas)
+- [Simplifying JavaScript Development with TS-Pattern and Pattern Matching](https://h.matiashernandez.dev/simplifying-javascript-development-with-ts-pattern-and-pattern-matching)
+- [What are Type Predicates in Typescript?](https://h.matiashernandez.dev/what-are-type-predicates-in-typescript)
+- [Javascript Rendering Patterns.](https://h.matiashernandez.dev/javascript-rendering-patterns)
+- [Deep Cloning in JavaScript: The Modern Way. Use structuredClone](https://h.matiashernandez.dev/deep-cloning-in-javascript-the-modern-way-use-structuredclone)
+- [Should You Learn Typescript? What Parts Should You Learn?](https://h.matiashernandez.dev/should-you-learn-typescript-what-parts-should-you-learn)
 <!-- BLOG-POST-LIST:END -->
 
 ### Podcasts 
